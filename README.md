@@ -1,4 +1,3 @@
-# Proyecto7
 # Análisis de Vehículos en USA
 
 Esta aplicación web permite revisar datos de vehículos usados en Estados Unidos.
